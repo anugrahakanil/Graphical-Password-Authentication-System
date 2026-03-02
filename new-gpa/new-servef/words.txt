@@ -1,0 +1,34 @@
+{
+    "subjects": [
+        "The cat", "A dog", "The bird", "An elephant", "A monkey", "The astronaut", 
+        "A scientist", "The teacher", "A robot", "The magician", "A wizard", "The knight", 
+        "A dragon", "The detective", "A pirate", "The adventurer", "A chef", "The artist", 
+        "The musician", "A traveler", "The engineer", "A soldier", "The queen", "A prince", 
+        "The explorer", "A carpenter", "The fisherman", "A farmer", "The scientist", "A scholar",
+        "The storyteller", "A sailor", "The wizard", "A sorcerer", "The librarian", "A dancer"
+    ],
+    "verbs": [
+        "jumps over", "runs past", "flies above", "dances with", "looks at", "plays with", 
+        "discovers", "builds", "paints", "explores", "hides behind", "reads about", 
+        "investigates", "solves", "chases", "escapes from", "fights against", "creates", 
+        "studies", "imagines", "designs", "constructs", "unveils", "analyzes", "navigates", 
+        "enchants", "controls", "unlocks", "retrieves", "cooks", "brews", "transforms", 
+        "whispers to", "befriends", "illuminates", "remembers", "casts a spell on"
+    ],
+    "objects": [
+        "a house", "a spaceship", "a mountain", "a river", "a bright apple", "a secret cave", 
+        "a flying car", "a golden book", "a hidden treasure", "a magic wand", "a mysterious forest", 
+        "a glowing sword", "a giant castle", "a time machine", "a lost city", "a legendary beast", 
+        "a deep ocean", "a strange island", "a powerful potion", "a dusty library", "a crystal ball", 
+        "a magical harp", "a mystical mirror", "a golden key", "a secret chamber", "a floating island", 
+        "a silver dragon", "a forbidden spell", "a cosmic portal", "a glowing lantern", "a robotic owl", 
+        "a forgotten prophecy", "a cursed amulet", "a timeless clock", "a dancing flame", "a book of secrets"
+    ],
+    "adjectives": [
+        "shiny", "mysterious", "colorful", "bright", "strange", "massive", "tiny", "beautiful", 
+        "ancient", "futuristic", "forgotten", "legendary", "glowing", "hidden", "enormous", 
+        "curious", "whispering", "haunted", "unexpected", "magical", "mystical", "radiant", 
+        "delicate", "powerful", "enchanted", "ominous", "celestial", "timeless", "invisible", 
+        "wondrous", "luminous", "haunting", "crimson", "spectral", "serene", "melodic", "vanishing"
+    ]
+}
